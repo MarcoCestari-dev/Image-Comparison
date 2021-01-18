@@ -2,7 +2,7 @@
 
 Per poter utilizzare questo software è necessario **PRIMA di poterlo compilare correttamente** scaricare PYTHON e installare delle librerie necessarie alla corretta esecuzione degli algoritmi.
 
-#Step By Step
+# Step By Step
 I passi da seguire per far funzionare questo programma sono i seguenti:
 
 1. Prima di tutto, è necessario scaricare e installare la versione di *PYTHON 3.8.7* (https://www.python.org/downloads/release/python-387/ - **64 bit per windows**) e, durante l'installazione, spuntare la checkbox "Add Python 3.8.7 to PATH".
@@ -19,7 +19,7 @@ I passi da seguire per far funzionare questo programma sono i seguenti:
 - Per il report scaricare il file "Report_GMA.pdf"
 - Per la presentazione scaricare il file "Presentazione_GMA.pdf"
 
-##Visual Studio Setup
+## Visual Studio Setup
 - Se si vuole utilizzare Visual Studio Community per la modifica dei file **potrebbe** essere necessario fare lo sblocco dei file resx che automaticamente vengono bloccati quando scaricati da internet.
 - Per sbloccarli aprire il zip
 1. Portare la cartella nella posizione desiderata
