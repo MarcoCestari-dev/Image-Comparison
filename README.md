@@ -16,7 +16,7 @@ I passi da seguire per far funzionare questo programma sono i seguenti:
 - **pip install numpy**
 - **pip install opencv-python**
 - **pip install scikit-image**
-5. A questo punto dovrebbe essere tutto pronto per avere un programma utilizzabile e funzionante. Per aprire il programma, fare doppio click sul file ImageComparision.exe nella cartella "Image Comparison V1.0.1\ImageComparison\bin\Debug".
+5. A questo punto dovrebbe essere tutto pronto per avere un programma utilizzabile e funzionante. Per aprire il programma, fare doppio click sul file ImageComparision.exe nella cartella "Image-Comparison-main\ImageComparison\bin\Debug".
 - *Qualora si verificassero problemi la prego di contattarmi e cercherò di aiutarla*.
 
 ## Visual Studio Community - Setup
