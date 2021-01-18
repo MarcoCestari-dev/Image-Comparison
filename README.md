@@ -19,7 +19,7 @@ I passi da seguire per far funzionare questo programma sono i seguenti:
 - Per il report scaricare il file "Report_GMA.pdf"
 - Per la presentazione scaricare il file "Presentazione_GMA.pdf"
 
-## Visual Studio Setup
+## Visual Studio Community - Setup
 - Se si vuole utilizzare Visual Studio Community per la modifica dei file **potrebbe** essere necessario fare lo sblocco dei file resx che automaticamente vengono bloccati quando scaricati da internet.
 - Per sbloccarli aprire il zip
 1. Portare la cartella nella posizione desiderata
