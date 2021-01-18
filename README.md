@@ -2,6 +2,9 @@
 
 Per poter utilizzare questo software è necessario **PRIMA di poterlo compilare correttamente** scaricare PYTHON e installare delle librerie necessarie alla corretta esecuzione degli algoritmi.
 
+- Per il report scaricare il file "Report_GMA.pdf"
+- Per la presentazione scaricare il file "Presentazione_GMA.pdf"
+
 # Step By Step
 I passi da seguire per far funzionare questo programma sono i seguenti:
 
@@ -15,9 +18,6 @@ I passi da seguire per far funzionare questo programma sono i seguenti:
 - **pip install scikit-image**
 5. A questo punto dovrebbe essere tutto pronto per avere un programma utilizzabile e funzionante. Per aprire il programma, fare doppio click sul file ImageComparision.exe nella cartella "Image Comparison V1.0.1\ImageComparison\bin\Debug".\n
 *Qualora si verificassero problemi la prego di contattarmi e cercherò di aiutarla*.
-
-- Per il report scaricare il file "Report_GMA.pdf"
-- Per la presentazione scaricare il file "Presentazione_GMA.pdf"
 
 ## Visual Studio Community - Setup
 - Se si vuole utilizzare Visual Studio Community per la modifica dei file **potrebbe** essere necessario fare lo sblocco dei file resx che automaticamente vengono bloccati quando scaricati da internet.
